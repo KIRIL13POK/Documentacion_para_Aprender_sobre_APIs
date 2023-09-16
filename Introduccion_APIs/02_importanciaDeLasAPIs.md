@@ -1,4 +1,4 @@
-![apis](https://www.tecnologias-informacion.com/api.jpg)
+![img_API](https://d29jy8ovkd5kcx.cloudfront.net/wp-content/uploads/2021/11/29093745/shutterstock_1390135562.jpg)
 
 # Importancia de las APIs en la programación y el desarrollo de software.
 
